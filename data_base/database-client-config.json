@@ -1,0 +1,31 @@
+{
+  "database": {
+    "1700307949516": {
+      "host": "127.0.0.1",
+      "port": 3306,
+      "user": "Root_Adm",
+      "password": "Koshkin3322!",
+      "dbType": "MySQL",
+      "database": "test_name",
+      "name": "bim",
+      "timezone": "+00:00",
+      "usingSSH": false,
+      "useSocksProxy": false,
+      "global": true,
+      "savePassword": "Forever",
+      "hideSystemSchema": true,
+      "readonly": false,
+      "sort": 11,
+      "useSSL": false,
+      "encrypt": true,
+      "authType": "default",
+      "esAuth": "none",
+      "showHidden": true,
+      "srv": false,
+      "key": "1700307949516",
+      "connectionKey": "database.connections"
+    }
+  },
+  "nosql": null,
+  "$schema": "https://dbclient-release.oss-cn-hongkong.aliyuncs.com/dbclient/schema.json"
+}
